@@ -1,4 +1,6 @@
 'use strict'
+
+// hello its me
 document.addEventListener('DOMContentLoaded', () => {
   const advPlace = document.querySelector('.promo__adv')
 
